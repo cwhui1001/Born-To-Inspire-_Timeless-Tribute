@@ -1,6 +1,6 @@
 ![Alt Text](timelesstributelogo.png)
 
 <p align="center">
-  # Timeless Tribute
+  <h1>Timeless Tribute</h1>
   By Chong Wen Hui and Esther Chan Lee Hsuen
 </p>
