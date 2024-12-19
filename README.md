@@ -57,7 +57,7 @@
 
 ## Contact Information
 
-- **Developer**: Gracelyn Chong Wen Hui
+- **Designer**: Gracelyn Chong Wen Hui
 - **Email**: [cwenhui10@gmail.com](mailto:cwenhui10@gmail.com)
 
 ## License
